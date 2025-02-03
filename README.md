@@ -36,20 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="60" height="60"/>&nbsp;
 </div>
 
----
-
-<h2 style="font-size: 1.8rem;">🎯 Goals</h2>
-<ul style="font-size: 1.2rem;">
-  <li>🚀 <b>Master advanced Microservices Architecture concepts.</b></li>
-  <li>🌍 <b>Explore cutting-edge backend technologies for scalable apps.</b></li>
-  <li>💡 <b>Contribute to open-source projects and collaborate with the developer community.</b></li>
-</ul>
 
 ---
 
 <h2 style="font-size: 1.8rem;">📬 Get in Touch</h2>
 <ul style="font-size: 1.2rem;">
-  <li>💼 <b>LinkedIn</b></li>
+  <li>💼 <b>LinkedIn</b> <a href='https://www.linkedin.com/in/muhammadadhil/'></li>
   <li>🐙 <b>GitHub</b></li>
   <li>📧 <b>Email:</b> muhammadadhil934@gmail.com</li>
 </ul>
