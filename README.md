@@ -21,7 +21,7 @@
 
 <h2 style="font-size: 1.8rem;">🛠️ Tech Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,html,css,js,ts,react,tailwind,git,github,docker,kubernetes" />
 </p>
 
 
