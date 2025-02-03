@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name]
+👋 Hi there! I'm Muhammad adhil
 I am a MERN Stack Developer passionate about building scalable and user-friendly applications. With a strong focus on backend architecture and microservices, I aim to deliver high-quality software solutions.
 
 🚀 About Me
