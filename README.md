@@ -19,11 +19,11 @@
 
 ---
 
-<h2 style="font-size: 1.8rem;">🛠️ Tech Skills</h2>
+<h2 style="font-size: 1.8rem; text-align: center;">🛠️ Tech Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,html,css,js,ts,react,tailwind,git,github,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,html,css,js,ts" style="margin: 10px; border-radius: 10px; background: #f5f5f5; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,docker,kubernetes" style="margin: 10px; border-radius: 10px; background: #f5f5f5; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
-
 
 ---
 
